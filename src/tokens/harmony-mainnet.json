@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x525BA498A0e83959d7b6c45c0b26255a1BbeA927",
+    "symbol": "CCO",
+    "name": "CoinConnect",
+    "decimals": 18,
+    "logoURI": "https://imgur.com/a/1Gpsvl0"
   }
 ]
